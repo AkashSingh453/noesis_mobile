@@ -1,0 +1,9 @@
+# Required for Supabase Auth and Android app
+SUPABASE_URL=https://YOUR_PROJECT_REF.supabase.co
+SUPABASE_ANON_KEY=your_supabase_anon_key_here
+
+# URL of your running Ktor backend (use 10.0.2.2 for Android Emulator → localhost)
+BACKEND_URL=http://10.0.2.2:8080
+
+# Location of the Android SDK
+sdk.dir=/Users/YOUR_USER/Library/Android/sdk
